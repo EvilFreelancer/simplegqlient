@@ -1,5 +1,8 @@
 {
   "name": "evilfreelancer/simplegqlient",
+  "type": "library",
+  "license": "MIT",
+  "description": "The simplest GraphQL client written in PHP",
   "autoload": {
     "psr-4": {
       "SimpleGQLient\\": "src/"
