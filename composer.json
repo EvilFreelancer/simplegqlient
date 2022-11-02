@@ -1,0 +1,21 @@
+{
+  "name": "evilfreelancer/simplegqlient",
+  "autoload": {
+    "psr-4": {
+      "SimpleGQLient\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Paul Rock",
+      "email": "paul@drteam.rocks"
+    }
+  ],
+  "require": {
+    "php": "^7.4|^8.0",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "require-dev": {
+    "larapack/dd": "^1.1"
+  }
+}
